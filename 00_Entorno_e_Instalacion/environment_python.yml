@@ -1,0 +1,16 @@
+name: scrna_python
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - scanpy=1.10.1
+  - anndata=0.10.7
+  - python-igraph
+  - leidenalg
+  - scrublet
+  - celltypist
+  - matplotlib
+  - seaborn
+  - pandas
