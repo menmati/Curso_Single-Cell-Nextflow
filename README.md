@@ -52,16 +52,16 @@ Domina la arquitectura física de microgotas de 10x Genomics, la anatomía de le
 
 ---
 
-### 🔹 Módulo 2: Control de Calidad Celular y Detección de Dobletes 🚧
+### 🔹 Módulo 2: Control de Calidad Celular y Detección de Dobletes
 Audita la viabilidad celular con rigor estadístico: filtrado adaptativo con MAD, modelado de ARN ambiental libre con EmptyDrops y purga de dobletes heterotípicos.
 
 | # | Documento / Lección | Temas Principales | Estado |
 | :-: | :--- | :--- | :---: |
-| **04** | 📖 Lección 4: Métricas QC y Umbrales Adaptativos | Métricas `nFeature`, `nCount`, `percent.mt` y por qué los umbrales fijos son un error. Desviación Absoluta de la Mediana (MAD). | 🚧 *En desarrollo* |
-| **05** | 📖 Lección 5: Detección de Gotas Vacías con EmptyDrops | El fenómeno del ARN ambiental (*soup*), modelo Dirichlet-multinomial y valor de significancia FDR. | 🚧 *En desarrollo* |
-| **06** | 📖 Lección 6: Identificación y Purga de Dobletes | Dobletes homotípicos vs heterotípicos, vecinos artificiales en PCA y optimización de $pK$ con `DoubletFinder`. | 🚧 *En desarrollo* |
-| **🎯** | 🎯 HITO 1: Pipeline QC Multivariante Adaptativo | Reto integrador: script automatizado de filtrado multivariante por muestra con generación de figuras diagnósticas. | 🚧 *En desarrollo* |
-| **📝** | 📝 Test de Autoevaluación del Módulo 2 | 5 preguntas sobre modelado de viabilidad celular y sesgos técnicos. | 🚧 *En desarrollo* |
+| **04** | [📖 Lección 4: Métricas QC y Umbrales Adaptativos](Modulo_2_Control_de_Calidad_y_Dobletes/Leccion_01_Metricas_QC_y_Filtrado_Adaptativo.md) | Métricas `nFeature`, `nCount`, `percent.mt` y por qué los umbrales fijos son un error. Desviación Absoluta de la Mediana (MAD). | ✅ Disponible |
+| **05** | [📖 Lección 5: Detección de Gotas Vacías con EmptyDrops](Modulo_2_Control_de_Calidad_y_Dobletes/Leccion_02_Deteccion_de_Gotas_Vacias_con_EmptyDrops.md) | El fenómeno del ARN ambiental (*soup*), modelo Dirichlet-multinomial y valor de significancia FDR. | ✅ Disponible |
+| **06** | [📖 Lección 6: Identificación y Purga de Dobletes](Modulo_2_Control_de_Calidad_y_Dobletes/Leccion_03_Identificacion_y_Purga_de_Dobletes_Heterotipicos.md) | Dobletes homotípicos vs heterotípicos, vecinos artificiales en PCA y optimización de $pK$ con `DoubletFinder`. | ✅ Disponible |
+| **🎯** | [🎯 HITO 1: Pipeline QC Multivariante Adaptativo](Modulo_2_Control_de_Calidad_y_Dobletes/Hito_01_Pipeline_QC_Multivariante_Adaptativo.md) | Reto integrador: script automatizado de filtrado multivariante por muestra con generación de figuras diagnósticas. | ✅ Disponible |
+| **📝** | [📝 Test de Autoevaluación del Módulo 2](Modulo_2_Control_de_Calidad_y_Dobletes/Test_Autoevaluacion_M2.md) | 5 preguntas sobre modelado de viabilidad celular y sesgos técnicos. | ✅ Disponible |
 
 ---
 

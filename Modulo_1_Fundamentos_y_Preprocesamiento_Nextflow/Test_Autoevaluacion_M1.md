@@ -1,4 +1,4 @@
-[⬅️ Anterior: Ejercicios Prácticos M1](Ejercicios_M1.md) | [🏠 Temario Principal](../README.md)
+[⬅️ Anterior: Ejercicios Prácticos M1](Ejercicios_M1.md) | [🏠 Temario Principal](../README.md) | [Siguiente: Lección 04 (QC Celular y MAD) ➡️](../Modulo_2_Control_de_Calidad_y_Dobletes/Leccion_01_Metricas_QC_y_Filtrado_Adaptativo.md)
 
 ---
 
@@ -54,4 +54,4 @@
 
 ---
 
-[⬅️ Anterior: Ejercicios Prácticos M1](Ejercicios_M1.md) | [🏠 Temario Principal](../README.md)
+[⬅️ Anterior: Ejercicios Prácticos M1](Ejercicios_M1.md) | [🏠 Temario Principal](../README.md) | [Siguiente: Lección 04 (QC Celular y MAD) ➡️](../Modulo_2_Control_de_Calidad_y_Dobletes/Leccion_01_Metricas_QC_y_Filtrado_Adaptativo.md)
