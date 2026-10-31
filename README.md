@@ -65,16 +65,16 @@ Audita la viabilidad celular con rigor estadístico: filtrado adaptativo con MAD
 
 ---
 
-### 🔹 Módulo 3: Normalización, Integración Multimuestra y Reducción 🚧
+### 🔹 Módulo 3: Normalización, Integración Multimuestra y Reducción
 Supera la hiperdispersión y ceros técnicos: modelado de varianza con SCTransform v2, reducción lineal en PCA y corrección de efectos de lote con Harmony.
 
 | # | Documento / Lección | Temas Principales | Estado |
 | :-: | :--- | :--- | :---: |
-| **07** | 📖 Lección 7: Normalización Regularizada con SCTransform v2 | Fallos de `LogNormalize`, modelos lineales generalizados binomiales negativos (GLM-NB), residuos de Pearson y aceleración con `glmGamPoi`. | 🚧 *En desarrollo* |
-| **08** | 📖 Lección 8: Reducción Dimensional y Selección de PCs | Espacio de genes altamente variables (HVGs), PCA ortogonal y selección de dimensiones informativas con `ElbowPlot` y `JackStraw`. | 🚧 *En desarrollo* |
-| **09** | 📖 Lección 9: Corrección de Efectos de Lote con Harmony | Efectos de lote entre pacientes, arquitectura de capas (`layers`) en Seurat v5, clustering difuso en Harmony y proyección UMAP 2D. | 🚧 *En desarrollo* |
-| **🏋️** | 🏋️ Ejercicios Prácticos del Módulo 3 | Pruebas empíricas de residuos de Pearson, métricas de mezcla (LISI/kBET) y preparación de capas con `PrepSCTFindMarkers`. | 🚧 *En desarrollo* |
-| **📝** | 📝 Test de Autoevaluación del Módulo 3 | 5 preguntas sobre estabilización de varianza e integración de cohortes. | 🚧 *En desarrollo* |
+| **07** | [📖 Lección 7: Normalización Regularizada con SCTransform v2](Modulo_3_Normalizacion_Integracion_y_Reduccion/Leccion_01_Normalizacion_SCTransform_v2.md) | Fallos de `LogNormalize`, modelos lineales generalizados binomiales negativos (GLM-NB), residuos de Pearson y aceleración con `glmGamPoi`. | ✅ Disponible |
+| **08** | [📖 Lección 8: Reducción Dimensional y Selección de PCs](Modulo_3_Normalizacion_Integracion_y_Reduccion/Leccion_02_Reduccion_de_Dimensionalidad_PCA_y_Seleccion_de_PCs.md) | Espacio de genes altamente variables (HVGs), PCA ortogonal y selección de dimensiones informativas con `ElbowPlot` y `JackStraw`. | ✅ Disponible |
+| **09** | [📖 Lección 9: Corrección de Efectos de Lote con Harmony](Modulo_3_Normalizacion_Integracion_y_Reduccion/Leccion_03_Integracion_Multimuestra_con_Harmony_en_Seurat_v5.md) | Efectos de lote entre pacientes, arquitectura de capas (`layers`) en Seurat v5, clustering difuso en Harmony y proyección UMAP 2D. | ✅ Disponible |
+| **🏋️** | [🏋️ Ejercicios Prácticos del Módulo 3](Modulo_3_Normalizacion_Integracion_y_Reduccion/Ejercicios_M3.md) | Pruebas empíricas de residuos de Pearson, métricas de mezcla (LISI/kBET) y preparación de capas con `PrepSCTFindMarkers`. | ✅ Disponible |
+| **📝** | [📝 Test de Autoevaluación del Módulo 3](Modulo_3_Normalizacion_Integracion_y_Reduccion/Test_Autoevaluacion_M3.md) | 5 preguntas sobre estabilización de varianza e integración de cohortes. | ✅ Disponible |
 
 ---
 

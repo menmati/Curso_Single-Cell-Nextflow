@@ -1,4 +1,4 @@
-[⬅️ Anterior: Hito 01 (Pipeline QC)](Hito_01_Pipeline_QC_Multivariante_Adaptativo.md) | [🏠 Temario Principal](../README.md)
+[⬅️ Anterior: Hito 01 (Pipeline QC)](Hito_01_Pipeline_QC_Multivariante_Adaptativo.md) | [🏠 Temario Principal](../README.md) | [Siguiente: Lección 07 (SCTransform v2) ➡️](../Modulo_3_Normalizacion_Integracion_y_Reduccion/Leccion_01_Normalizacion_SCTransform_v2.md)
 
 ---
 
@@ -64,4 +64,4 @@
 
 ---
 
-[⬅️ Anterior: Hito 01 (Pipeline QC)](Hito_01_Pipeline_QC_Multivariante_Adaptativo.md) | [🏠 Temario Principal](../README.md)
+[⬅️ Anterior: Hito 01 (Pipeline QC)](Hito_01_Pipeline_QC_Multivariante_Adaptativo.md) | [🏠 Temario Principal](../README.md) | [Siguiente: Lección 07 (SCTransform v2) ➡️](../Modulo_3_Normalizacion_Integracion_y_Reduccion/Leccion_01_Normalizacion_SCTransform_v2.md)
