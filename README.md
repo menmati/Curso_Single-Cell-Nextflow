@@ -78,16 +78,16 @@ Supera la hiperdispersión y ceros técnicos: modelado de varianza con SCTransfo
 
 ---
 
-### 🔹 Módulo 4: Clustering, Marcadores Génicos y Anotación Celular *(🚧 En desarrollo)*
+### 🔹 Módulo 4: Clustering, Marcadores Génicos y Anotación Celular
 Agrupa células por identidad biológica: particiones conexas con Leiden, contrastes diferenciales con modelos Hurdle (MAST) y anotación híbrida con SingleR y CellTypist.
 
 | # | Documento / Lección | Temas Principales |
 | :-: | :--- | :--- |
-| **10** | 📖 Lección 10: Grafos SNN, Louvain y Algoritmo de Leiden | Grafos de vecindad compartida (SNN), modularidad, conectividad garantizada en Leiden y exploración de resolución con `clustree`. |
-| **11** | 📖 Lección 11: Detección de Marcadores y Modelo MAST | Manejo del dropout técnico, contrastes Wilcoxon rank-sum y modelo Hurdle de dos partes con MAST. DotPlots y Heatmaps. |
-| **12** | 📖 Lección 12: Anotación Manual vs. Automatizada con IA | Paneles canónicos de linaje inmune y estromal, correlación con atlas curados en `SingleR` y modelos predictivos con `CellTypist`. |
-| **🎯** | 🎯 HITO 2: Benchmarking de Anotación en Subpoblaciones Raras | Práctica integradora: resolución de Tregs, células T exhaustas y macrófagos TAM con matriz de confusión y cálculo de ARI. |
-| **📝** | 📝 Test de Autoevaluación del Módulo 4 | 5 preguntas sobre clustering de grafos y asignación fenotípica. |
+| **10** | [📖 Lección 10: Grafos SNN, Louvain y Algoritmo de Leiden](Modulo_4_Clustering_Marcadores_y_Anotacion/Leccion_01_Algoritmos_de_Clustering_de_Grafos_Louvain_y_Leiden.md) | Grafos de vecindad compartida (SNN), modularidad, conectividad garantizada en Leiden y exploración de resolución con `clustree`. |
+| **11** | [📖 Lección 11: Detección de Marcadores y Modelo MAST](Modulo_4_Clustering_Marcadores_y_Anotacion/Leccion_02_Identificacion_de_Marcadores_y_Expresion_Diferencial.md) | Manejo del dropout técnico, contrastes Wilcoxon rank-sum y modelo Hurdle de dos partes con MAST. DotPlots y Heatmaps. |
+| **12** | [📖 Lección 12: Anotación Manual vs. Automatizada con IA](Modulo_4_Clustering_Marcadores_y_Anotacion/Leccion_03_Estrategias_de_Anotacion_Manual_vs_Automatizada.md) | Paneles canónicos de linaje inmune y estromal, correlación con atlas curados en `SingleR` y modelos predictivos con `CellTypist`. |
+| **🎯** | [🎯 HITO 2: Benchmarking de Anotación en Subpoblaciones Raras](Modulo_4_Clustering_Marcadores_y_Anotacion/Hito_02_Benchmarking_Anotacion_Fenotipica_Subpoblaciones.md) | Práctica integradora: resolución de Tregs, células T exhaustas y macrófagos TAM con matriz de confusión y cálculo de ARI. |
+| **📝** | [📝 Test de Autoevaluación del Módulo 4](Modulo_4_Clustering_Marcadores_y_Anotacion/Test_Autoevaluacion_M4.md) | 5 preguntas sobre clustering de grafos y asignación fenotípica. |
 
 ---
 

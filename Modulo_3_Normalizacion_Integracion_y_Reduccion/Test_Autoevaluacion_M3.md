@@ -1,4 +1,4 @@
-[⬅️ Anterior: Ejercicios Prácticos M3](Ejercicios_M3.md) | [🏠 Temario Principal](../README.md)
+[⬅️ Anterior: Ejercicios Prácticos M3](Ejercicios_M3.md) | [🏠 Temario Principal](../README.md) | [Siguiente: Lección 10 (Louvain y Leiden) ➡️](../Modulo_4_Clustering_Marcadores_y_Anotacion/Leccion_01_Algoritmos_de_Clustering_de_Grafos_Louvain_y_Leiden.md)
 
 ---
 
@@ -64,4 +64,4 @@
 
 ---
 
-[⬅️ Anterior: Ejercicios Prácticos M3](Ejercicios_M3.md) | [🏠 Temario Principal](../README.md)
+[⬅️ Anterior: Ejercicios Prácticos M3](Ejercicios_M3.md) | [🏠 Temario Principal](../README.md) | [Siguiente: Lección 10 (Louvain y Leiden) ➡️](../Modulo_4_Clustering_Marcadores_y_Anotacion/Leccion_01_Algoritmos_de_Clustering_de_Grafos_Louvain_y_Leiden.md)
