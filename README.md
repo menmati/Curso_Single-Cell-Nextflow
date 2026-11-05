@@ -91,16 +91,16 @@ Agrupa células por identidad biológica: particiones conexas con Leiden, contra
 
 ---
 
-### 🔹 Módulo 5: Biología de Sistemas — Pseudotiempo y Comunicación Intercelular *(🚧 En desarrollo)*
+### 🔹 Módulo 5: Biología de Sistemas — Pseudotiempo y Comunicación Intercelular
 Explora las dinámicas temporales y el diálogo celular en el tejido: trayectorias con Monocle3 y redes ligando-receptor con CellChat v2.
 
 | # | Documento / Lección | Temas Principales |
 | :-: | :--- | :--- |
-| **13** | 📖 Lección 13: Inferencia de Trayectorias con Monocle3 | Paisaje de Waddington, aprendizaje de grafos principales con `SimplePPT`, ramificaciones y escala continua de pseudotiempo. |
-| **14** | 📖 Lección 14: Dinámicas Temporales y Autocorrelación Espacial | Test espacial de Moran ($I$) con `graph_test()`, módulos génicos co-regulados y curvas cinéticas spline. |
-| **15** | 📖 Lección 15: Comunicación Célula-Célula con CellChat v2 | Base de datos `CellChatDB`, complejos multiméricos, ley de acción de masas, roles de red (*senders/receivers*) y diagramas de cuerdas. |
-| **🏋️** | 🏋️ Ejercicios Prácticos del Módulo 5 | Inferencia de diferenciación celular, factores de transcripción dinámicos y cuantificación del eje PD-L1/PD-1. |
-| **📝** | 📝 Test de Autoevaluación del Módulo 5 | 5 preguntas sobre biología de sistemas a resolución de célula única. |
+| **13** | [📖 Lección 13: Inferencia de Trayectorias con Monocle3](Modulo_5_Biologia_de_Sistemas_Pseudotiempo_y_Comunicacion/Leccion_01_Inferencia_de_Trayectorias_y_Pseudotiempo_con_Monocle3.md) | Paisaje de Waddington, aprendizaje de grafos principales con `SimplePPT`, ramificaciones y escala continua de pseudotiempo. |
+| **14** | [📖 Lección 14: Dinámicas Temporales y Autocorrelación Espacial](Modulo_5_Biologia_de_Sistemas_Pseudotiempo_y_Comunicacion/Leccion_02_Modelado_de_Dinamicas_Genicas_a_lo_Largo_del_Pseudotiempo.md) | Test espacial de Moran ($I$) con `graph_test()`, módulos génicos co-regulados y curvas cinéticas spline. |
+| **15** | [📖 Lección 15: Comunicación Célula-Célula con CellChat v2](Modulo_5_Biologia_de_Sistemas_Pseudotiempo_y_Comunicacion/Leccion_03_Analisis_de_Comunicacion_Celular_con_CellChat.md) | Base de datos `CellChatDB`, complejos multiméricos, ley de acción de masas, roles de red (*senders/receivers*) y diagramas de cuerdas. |
+| **🏋️** | [🏋️ Ejercicios Prácticos del Módulo 5](Modulo_5_Biologia_de_Sistemas_Pseudotiempo_y_Comunicacion/Ejercicios_M5.md) | Inferencia de diferenciación celular, factores de transcripción dinámicos y cuantificación del eje PD-L1/PD-1. |
+| **📝** | [📝 Test de Autoevaluación del Módulo 5](Modulo_5_Biologia_de_Sistemas_Pseudotiempo_y_Comunicacion/Test_Autoevaluacion_M5.md) | 5 preguntas sobre biología de sistemas a resolución de célula única. |
 
 ---
 

@@ -1,4 +1,4 @@
-[⬅️ Anterior: Hito 02 (Benchmarking de Anotación)](Hito_02_Benchmarking_Anotacion_Fenotipica_Subpoblaciones.md) | [🏠 Temario Principal](../README.md)
+[⬅️ Anterior: Hito 02 (Benchmarking de Anotación)](Hito_02_Benchmarking_Anotacion_Fenotipica_Subpoblaciones.md) | [🏠 Temario Principal](../README.md) | [Siguiente: Lección 13 (Monocle3 y Pseudotiempo) ➡️](../Modulo_5_Biologia_de_Sistemas_Pseudotiempo_y_Comunicacion/Leccion_01_Inferencia_de_Trayectorias_y_Pseudotiempo_con_Monocle3.md)
 
 ---
 
@@ -64,4 +64,4 @@
 
 ---
 
-[⬅️ Anterior: Hito 02 (Benchmarking de Anotación)](Hito_02_Benchmarking_Anotacion_Fenotipica_Subpoblaciones.md) | [🏠 Temario Principal](../README.md)
+[⬅️ Anterior: Hito 02 (Benchmarking de Anotación)](Hito_02_Benchmarking_Anotacion_Fenotipica_Subpoblaciones.md) | [🏠 Temario Principal](../README.md) | [Siguiente: Lección 13 (Monocle3 y Pseudotiempo) ➡️](../Modulo_5_Biologia_de_Sistemas_Pseudotiempo_y_Comunicacion/Leccion_01_Inferencia_de_Trayectorias_y_Pseudotiempo_con_Monocle3.md)
