@@ -4,10 +4,6 @@
 
 # Módulo 06: Guía Maestra del Proyecto Final de Graduación
 
-> **PROYECTO FINAL:** `tumor-microenvironment-scrna-atlas`  
-> **Repositorio del Portafolio:** [`menmati/tumor-microenvironment-scrna-atlas`](https://github.com/menmati/tumor-microenvironment-scrna-atlas)  
-> **Estado:** 🏆 Completado y Validado
-
 ---
 
 ## 🎯 Visión y Alcance del Proyecto
@@ -65,7 +61,7 @@ flowchart TD
 ### Paso 2: Control de Calidad y Dobletes (`scripts/01_qc_and_doublets.R`)
 * Auditoría de viabilidad celular con umbrales adaptativos ($\pm 3 \times \text{MAD}$) y porcentaje mitocondrial < 15%.
 * Detección y remoción de dobletes heterotípicos.
-* Generación de [`qc_violins.png`](https://github.com/menmati/tumor-microenvironment-scrna-atlas) y métricas en [`qc_summary_metrics.csv`](https://github.com/menmati/tumor-microenvironment-scrna-atlas).
+* Generación de `qc_violins.png` y métricas en `qc_summary_metrics.csv`.
 
 ### Paso 3: Integración Multimuestra y Reducción Dimensional (`scripts/02_integrate_cluster.R`)
 * Modelado de dispersión por muestra desacoplada con `SCTransform v2` (aceleración C++ con `glmGamPoi`).
@@ -95,13 +91,6 @@ flowchart TD
 | **Figura 2** | `fig2_markers_dotplot.png` | DotPlot de marcadores canónicos que validan la identidad de linfocitos T citotóxicos, agotados, Tregs, TAMs M1/M2, CAFs, células endoteliales y epitelio tumoral. |
 | **Figura 3** | `fig3_tcell_exhaustion_trajectory.png` | Trayectoria de pseudotiempo de Monocle3 y curvas cinéticas spline GAM demostrando la transición hacia el estado exhausto terminal. |
 | **Figura 4** | `fig4_cellchat_signaling_networks.png` | Mapa de comunicación ligando-receptor de CellChat v2 (eje PD-L1/PD-1) y arquitectura de centralidad de red 2D de emisores y receptores. |
-
----
-
-## 🔗 Repositorio Independiente del Proyecto
-
-El código completo, los pipelines en Nextflow, los scripts modulares de R, las figuras en alta resolución y la documentación para reclutadores se encuentran disponibles en:  
-👉 **[github.com/menmati/tumor-microenvironment-scrna-atlas](https://github.com/menmati/tumor-microenvironment-scrna-atlas)**
 
 ---
 
