@@ -1,4 +1,4 @@
-[⬅️ Anterior: Ejercicios Prácticos M5](Ejercicios_M5.md) | [🏠 Temario Principal](../README.md)
+[⬅️ Anterior: Ejercicios Prácticos M5](Ejercicios_M5.md) | [🏠 Temario Principal](../README.md) | [Siguiente: Módulo 6 — Proyecto Final de Graduación ➡️](../Modulo_6_Proyecto_Final_de_Graduacion/Proyecto_Final_Guia.md)
 
 ---
 
@@ -64,4 +64,4 @@
 
 ---
 
-[⬅️ Anterior: Ejercicios Prácticos M5](Ejercicios_M5.md) | [🏠 Temario Principal](../README.md)
+[⬅️ Anterior: Ejercicios Prácticos M5](Ejercicios_M5.md) | [🏠 Temario Principal](../README.md) | [Siguiente: Módulo 6 — Proyecto Final de Graduación ➡️](../Modulo_6_Proyecto_Final_de_Graduacion/Proyecto_Final_Guia.md)

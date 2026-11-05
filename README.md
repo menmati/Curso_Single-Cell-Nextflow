@@ -104,12 +104,12 @@ Explora las dinámicas temporales y el diálogo celular en el tejido: trayectori
 
 ---
 
-### 🎓 Módulo 6: Proyecto Final de Graduación *(🚧 En desarrollo)*
+### 🎓 Módulo 6: Proyecto Final de Graduación
 Construcción de un atlas completo del microambiente tumoral humano (`tumor-microenvironment-scrna-atlas`) a partir de datos reales de 10x Genomics, integrando Nextflow DSL2 upstream y el stack completo de Seurat v5 y CellChat downstream.
 
 | # | Documento / Guía | Temas Principales |
 | :-: | :--- | :--- |
-| **🎓** | 🎓 Guía Maestra del Proyecto Final | Especificaciones de cohorte tumoral, arquitectura contenerizada, caracterización de infiltrados inmunes y rúbrica de evaluación. |
+| **🎓** | [📖 Guía Maestra del Proyecto Final: Tumor Microenvironment scRNA-seq Atlas](Modulo_6_Proyecto_Final_de_Graduacion/Proyecto_Final_Guia.md) | Especificaciones de cohorte clínica, arquitectura contenerizada Nextflow DSL2, caracterización de infiltrados inmunes, Monocle3, CellChat v2 y 4 figuras de publicación. |
 
 ---
 
